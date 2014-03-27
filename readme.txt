@@ -1,21 +1,15 @@
 === AAM Facebook Stick Box ===
 
 Contributors: Md. Abdullah Al Mahim
-
 Donate link: http://aamahin.me
-
 Tags: widget, plugin, sidebar, facebook, facebook fan page, fb fanpage, facebook stickey box, facebook fanpage wordpress plugin, facebook stickey wordpress plugin
-
 Requires at least: 3.0
-
 Tested up to: 3.8.1
-
 Stable tag: 1.15
-
 License: GPLv2 or later
-
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+A Fixed Stick Box For Facebook Fan Page with awesome jquery. 
 
 == Description ==
 
@@ -32,10 +26,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 - After Successfully Install You can See A New Menu Named AAM FB Box. From Where you can set/change Facebook Fan page URL. 
 
 == Frequently Asked Questions ==
-- For more Details Please See: http://aamahin.me/plugins/aam-animate-scroll-wordpress
+= Can I use my existing WordPress theme? =
+
+Of course! its works with nearly every WordPress theme.
 
 == Screenshots ==
-For Screenshots:  http://aamahin.me/plugins/aam-animate-scroll-wordpress
+1. Take a Look.
 
 == Support ==
 

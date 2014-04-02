@@ -17,7 +17,7 @@ A Fixed Stick Box For Facebook Fan Page with awesome jquery.
 
 - After install this plugin a new menu added into admin panel named AAM Fb Box. Where you can change/set your facebook fan page url.  
 
-- Here is Live Demo: http://aamahin.me/plugins/
+- Here is Live Demo: http://plugins.aamahin.me/aam-fb-stick-box/
 
 == Installation ==
 
@@ -35,7 +35,7 @@ Of course! its works with nearly every WordPress theme.
 
 == Support ==
 
-http://aamahin.me/plugins/aam-animate-scroll-wordpress
+http://plugins.aamahin.me/aam-fb-stick-box/
 
 == Changelog ==
 

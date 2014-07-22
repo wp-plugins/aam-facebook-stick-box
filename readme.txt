@@ -1,4 +1,4 @@
-=== AAM Facebook Stick Box ===
+=== Rajoshik Facebook Stick Box ===
 
 Contributors: Md. Abdullah Al Mahim
 Donate link: http://fb.com/a.a.mahim

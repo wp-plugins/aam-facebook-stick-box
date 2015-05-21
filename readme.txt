@@ -1,4 +1,4 @@
-=== Rajoshik Facebook Stick Box ===
+=== VainCode Facebook Stick Box ===
 
 Contributors: Md. Abdullah Al Mahim
 Donate link: http://fb.com/a.a.mahim
@@ -13,15 +13,15 @@ A Fixed Stick Box For Facebook Fan Page with awesome jquery.
 
 == Description ==
 
-- AAM Facebook Stick Box is a simple facebook fan page plugin for wordpress. after install this plugin a facebook logo will be apper to right side of website, when visitor mosue move of the logo then a box will be show which have contain a facebook fan page, visitor can like facebook page from the website.
+- VainCode Facebook Stick Box is a simple facebook fan page plugin for wordpress. after install this plugin a facebook logo will be apper to right side of website, when visitor mosue move of the logo then a box will be show which have contain a facebook fan page, visitor can like facebook page from the website.
 
 - After install this plugin a new menu added into admin panel named AAM Fb Box. Where you can change/set your facebook fan page url.  
 
-- Here is Live Demo: http://rajoshik.com/fb-stick-box/
+- Here is Live Demo: http://demo.vaincode.com/fb-stick-box
 
 == Installation ==
 
-- Install from WordPress admin panel >> Plugins >> Add new plugin >> Search for `AAM Facebook Stick Box' plugin. After you install, activate the plug-in. 
+- Install from WordPress admin panel >> Plugins >> Add new plugin >> Search for `VainCode Facebook Stick Box' plugin. After you install, activate the plug-in. 
 
 - After Successfully Install You can See A New Menu Named AAM FB Box. From Where you can set/change Facebook Fan page URL. 
 
@@ -35,10 +35,12 @@ Of course! its works with nearly every WordPress theme.
 
 == Support ==
 
-http://plugins.aamahin.me/aam-fb-stick-box/
+http://support.vaincode.com/
 
 == Changelog ==
 
 == Upgrade Notice == 
 
-1.00
+1.01
+
+[Minor Bug Fixed]
